@@ -499,7 +499,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-image: url("/background1.png");
+    background-image: url("background1.png");
     padding: 20px;
     border-radius: 5px;
     max-width: 600px;
