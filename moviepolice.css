@@ -65,8 +65,8 @@
 } 
 
 body {
-    background-image: url("background1.png");
     /* background-color: rgb(0, 0, 0); */
+    background-image: url("background1.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
