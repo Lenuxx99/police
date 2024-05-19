@@ -1,11 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
-            var img = document.getElementById('posterImage');
-            img.onload = function() {
-                // Das eigentliche Bild wird geladen
-                img.removeAttribute('src');
-                img.setAttribute('src', img.getAttribute('data-src'));
-            };
-        });
+
          var words = ['Welcome to FliksHub, your destination for unlimited movies, TV shows, and more – all rights reserved © 2024.', 'This site does not store any files on our server, we only linked to the media which is hosted on 3rd party services.'],
             part,
             i = 0,
