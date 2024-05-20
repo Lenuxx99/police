@@ -2170,6 +2170,7 @@ transition:fill .4s .3s ease-out;
         transition: opacity 2s ease-in-out;
         background-color : rgba(0, 0, 0, 0.7);
         border:none;
+        height:250px;
     }
     .main-content {
         margin-top : 0px;
@@ -2215,10 +2216,11 @@ transition:fill .4s .3s ease-out;
         height: 250px;
     }
     .movie-item .movie-title{
-        font-size: 10px;
+        font-size: 14px;
         line-height: 11px; /* 11px * 4 */
         overflow: hidden;
         max-height: 20px; /* 11px * 4 */
+        margin:5px 0;
     }
     
     .container {
