@@ -1193,16 +1193,13 @@ body {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background-color: #173761;
+    background-color: transparent;
     color: darkgoldenrod;
     /* border-color: darkgoldenrod; */
     border: none;
     cursor: pointer;
     z-index: 10;
-    font-size: 20px;
-    padding: 10px;
-    margin: 0 20px;
-    border-radius: 30px;
+    font-size: 100px;
 }
 
 .left-button {
