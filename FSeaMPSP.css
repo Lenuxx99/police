@@ -600,7 +600,13 @@
             transition: transform 0.3s ease;
             object-fit: cover;
         }
-
+        .toload{
+    opacity: 0;
+    transition: transform 0.2s ease-in-out,opacity 200ms ease-in-out ;
+}
+.toload.loaded1{
+    opacity: 1;
+}
         .movie-info-list {
             width: 100%;
             /* movie-info-list nimmt die volle Breite ein */
