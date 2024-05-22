@@ -23,7 +23,7 @@
             background:linear-gradient(rgb(1, 29, 82),#d1a11b)
         } 
         body {
-            background-image: url("background1.png");
+            background-color: #0b1c2e; 
             /* background-color: rgb(0, 0, 0); */
             background-size: cover;
             background-repeat: no-repeat;
