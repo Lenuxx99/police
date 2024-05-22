@@ -2068,6 +2068,9 @@ transition:fill .4s .3s ease-out;
         max-width : 93vw;
         margin-top:150px;
     }
+    .nav-button {
+        transform: translateY(-70%);
+    }
     
 }
 
@@ -2391,4 +2394,8 @@ transition:fill .4s .3s ease-out;
         background-color: darkgoldenrod;
         border : none;
     }
+        .nav-button {
+            transform: translateY(-70%);
+            font-size: 50px;
+        }
 }
