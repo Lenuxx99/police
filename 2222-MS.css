@@ -1855,6 +1855,11 @@ transition:fill .4s .3s ease-out;
         }
     }
 }
+    @keyframes fancy {
+            to {
+                transform: rotate(360deg) scale(0.5);
+            }
+        }
 .fancy-spinner1 {
     display: flex;
     position: absolute;
