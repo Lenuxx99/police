@@ -1897,6 +1897,11 @@ transition:fill .4s .3s ease-out;
         }
     }
 }
+    @keyframes fancy {
+            to {
+                transform: rotate(360deg) scale(0.5);
+            }
+        }
 /* preloader */
 @media (min-width: 4000px) {
     .footer{
