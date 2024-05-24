@@ -1834,7 +1834,7 @@ transition:fill .4s .3s ease-out;
             border-width: 0.5rem;
             border-style: solid;
             border-color: transparent;
-            animation: 2s fancy infinite alternate;
+            animation: 2s fancy1 infinite alternate;
 
             &:nth-child(1) {
                 border-left-color: rgb(136, 148, 173);
@@ -1855,7 +1855,7 @@ transition:fill .4s .3s ease-out;
         }
     }
 }
-    @keyframes fancy {
+    @keyframes fancy1 {
             to {
                 transform: rotate(360deg) scale(0.5);
             }
