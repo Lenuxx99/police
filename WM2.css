@@ -466,7 +466,7 @@
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
-            background : #0b1c2e;
+            background-color: #0b1c2e;
             padding: 20px;
             border-radius: 5px;
             max-width: 600px;
