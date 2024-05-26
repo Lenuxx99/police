@@ -663,7 +663,7 @@
             cursor: pointer;
             background-color:  #183652;
             color: #bbc2c9;
-            border:2px solid darkgoldenrod;
+            
         }
         .video-buttons1 {
             z-index: 2;
@@ -685,7 +685,7 @@
             cursor: pointer;
             background-color:  #183652;
             color: #bbc2c9;
-            border:2px solid darkgoldenrod;
+           
         }
         
         .serieinfo {
