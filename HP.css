@@ -302,18 +302,12 @@
 
         /* search overlay */
 
-        .start-container-wrapper {
-            height: 700px;
-            width: 100vw;
-            display: flex;
-        }
-
         .start-container {
             background-size: cover;
             background-position: center;
             position: relative;
             display: flex;
-            width: 100%;
+            width: 100vw;
             height: 700px;
             z-index: 10;
             flex-direction: column;
