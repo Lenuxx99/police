@@ -43,7 +43,7 @@
             left: 0;
             position:fixed;
             z-index: 3000;
-            transition: top 0.3s;
+            transition: top 0.4s;
         }
 
         .search-container {
