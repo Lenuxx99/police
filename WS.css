@@ -1143,9 +1143,7 @@
                 border-radius: 20px;
                 text-align: center;
             }
-            .video-buttons{
-                display : none
-            }
+
             .server-message1 {
                 display:flex;
                 color: #aaa;
@@ -1364,9 +1362,6 @@
                 border-radius: 20px;
                 font-size: 12px;
                 text-align: center;
-            }
-            .video-buttons{
-                display : none
             }
             .server-message1 {
                 display:flex;
