@@ -1035,6 +1035,7 @@
             }
             .trending-section .title{
                 margin: 0 8px;
+                margin-top: 50px;
             }
             .nav-content{
                 margin:0 15px
@@ -1130,6 +1131,7 @@
             }
             .trending-section .title {
                 margin: 0px 5px;
+                margin-top: 50px;
                 padding: 0px;
             }
 
