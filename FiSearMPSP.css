@@ -1033,7 +1033,7 @@
                 margin-left:8px;
                 grid-gap:5px;
             }
-            .title{
+            .trending-section .title{
                 margin: 0 8px;
             }
             .nav-content{
@@ -1128,7 +1128,7 @@
                 margin-top: 7px;
                 font-size: 10px;
             }
-            .title {
+            .trending-section .title {
                 margin: 0px 5px;
                 padding: 0px;
             }
