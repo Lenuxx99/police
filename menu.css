@@ -1144,9 +1144,7 @@ html {
             }
 
             .fade-in {
-                width: 100vw;
-                height: 50vh;
-                object-fit: cover;
+                display: none;
             }
             .mySlides {
                 height: 50vh;
