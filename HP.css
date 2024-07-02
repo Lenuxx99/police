@@ -394,16 +394,6 @@
             text-align: start;
             font-family: "Open Sans", sans-serif;
         }
-
-        .start-container-img img {
-            width: 350px;
-            height: 500px;
-            border-radius: 5px;
-            box-shadow: 5px 10px 20px rgba(223, 172, 5, 0.5);
-            border: 1px solid darkgoldenrod;
-        }
-        
-
         .start-container-img {
             position: relative;
         }
@@ -1192,8 +1182,6 @@
 
         /* //filter */
 
-
-
         /* sidebar toggle */
         .header {
             background: #0b1c2e;
@@ -1278,9 +1266,6 @@
             z-index: 2000;
 
         }
-
-
-
 
         .sidebar a {
             padding: 15px 15px;
@@ -1439,9 +1424,6 @@
             .footer{
                 position: relative;
             }
-        .footer{
-                position: relative;
-            }
             .footer img {
                 width: 80px;
                 height: auto;
@@ -1568,12 +1550,6 @@
             .next {
                 display: none;
             }
-
-            .start-container-img img {
-                width: 200px;
-                height: 300px;
-            }
-
             .infos {
                 height: 450px;
                 width: 90vw;
@@ -1608,7 +1584,6 @@
             #results-overlay {
                 width: 100vw;
                 top: calc(95px);
-                /* Positioniert die Ergebnisse direkt unterhalb des Inputs */
                 left: 0;
             }
         }
